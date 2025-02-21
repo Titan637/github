@@ -3,3 +3,8 @@ python-telegram-bot
 pyTelegramBotAPI
 certifi
 pytz
+pillow 
+imagehash
+telebot
+aiohttp
+psutil
